@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hunorvadasz-perhat/Projects/no-2-reverse-integer/01-simple-solution/01-simple-solution.csproj",
+      "projectUniqueName": "/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/01-simple-solution/01-simple-solution.csproj",
       "projectName": "01-simple-solution",
-      "projectPath": "/Users/hunorvadasz-perhat/Projects/no-2-reverse-integer/01-simple-solution/01-simple-solution.csproj",
+      "projectPath": "/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/01-simple-solution/01-simple-solution.csproj",
       "packagesPath": "/Users/hunorvadasz-perhat/.nuget/packages/",
-      "outputPath": "/Users/hunorvadasz-perhat/Projects/no-2-reverse-integer/01-simple-solution/obj/",
+      "outputPath": "/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/01-simple-solution/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

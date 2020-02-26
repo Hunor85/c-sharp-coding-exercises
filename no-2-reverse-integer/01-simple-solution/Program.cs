@@ -21,8 +21,7 @@ namespace _01_simple_solution
         public static void Main()
         {
             int num = 4562;
-            Console.Write("Reverse of no. is "
-                            + reversDigits(num));
+            Console.Write("Reverse of no. is " + reverseDigits(num));
         }
     }
 }
