@@ -1,6 +1,8 @@
+# Reverse integer
 
 ## Algorithm:
 
+```
 Input:  num
 (1) Initialize rev_num = 0
 (2) Loop while num > 0
@@ -9,9 +11,10 @@ Input:  num
                rev_num = rev_num*10 + num%10;
      (b) Divide num by 10
 (3) Return rev_num
-
+```
 
 ## Example:
+```
 num = 4562
 rev_num = 0
 
@@ -26,3 +29,4 @@ num = num/10 = 4
 
 rev_num = rev_num *10 + num%10 = 265 + 4 = 2654
 num = num/10 = 0
+```
