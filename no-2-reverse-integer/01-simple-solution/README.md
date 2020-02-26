@@ -1,7 +1,9 @@
 # Reverse integer
 Given a 32-bit signed integer, reverse digits of an integer.
 
-## Algorithm:
+Leetcode [link](https://leetcode.com/problems/reverse-integer/)
+
+### Algorithm:
 
 ```
 Input:  num
@@ -14,7 +16,7 @@ Input:  num
 (3) Return rev_num
 ```
 
-## Example:
+### Example:
 ```
 num = 4562
 rev_num = 0
