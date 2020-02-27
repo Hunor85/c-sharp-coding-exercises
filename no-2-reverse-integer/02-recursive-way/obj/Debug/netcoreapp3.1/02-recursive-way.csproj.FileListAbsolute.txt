@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/bin/Debug/netcoreapp3.1/02-recursive-way
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/bin/Debug/netcoreapp3.1/02-recursive-way.deps.json
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/bin/Debug/netcoreapp3.1/02-recursive-way.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/bin/Debug/netcoreapp3.1/02-recursive-way.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/bin/Debug/netcoreapp3.1/02-recursive-way.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/bin/Debug/netcoreapp3.1/02-recursive-way.pdb
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/obj/Debug/netcoreapp3.1/02-recursive-way.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/obj/Debug/netcoreapp3.1/02-recursive-way.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/obj/Debug/netcoreapp3.1/02-recursive-way.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/obj/Debug/netcoreapp3.1/02-recursive-way.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/leetcode-c-sharp/no-2-reverse-integer/02-recursive-way/obj/Debug/netcoreapp3.1/02-recursive-way.pdb
