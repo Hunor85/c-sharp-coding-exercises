@@ -6,7 +6,7 @@ namespace _01_simple_solution
     {
         // Iterative function to  
         // reverse digits of num 
-        static int reversDigits(int num)
+        static int reverseDigits(int num)
         {
             int rev_num = 0;
             while (num > 0)
@@ -25,3 +25,5 @@ namespace _01_simple_solution
         }
     }
 }
+
+// Time Complexity: O(Log(n)) where n is the input number.
