@@ -25,3 +25,5 @@ namespace _02_recursive_way
         }
     }
 }
+
+// Time Complexity: O(Log(n)) where n is the input number.
