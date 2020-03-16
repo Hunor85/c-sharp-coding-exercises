@@ -1,0 +1,10 @@
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/bin/Debug/netcoreapp3.1/no-02-linear-search.deps.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/bin/Debug/netcoreapp3.1/no-02-linear-search.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/bin/Debug/netcoreapp3.1/no-02-linear-search.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/bin/Debug/netcoreapp3.1/no-02-linear-search.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/bin/Debug/netcoreapp3.1/no-02-linear-search.pdb
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/obj/Debug/netcoreapp3.1/no-02-linear-search.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/obj/Debug/netcoreapp3.1/no-02-linear-search.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/obj/Debug/netcoreapp3.1/no-02-linear-search.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/obj/Debug/netcoreapp3.1/no-02-linear-search.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-02-linear-search/obj/Debug/netcoreapp3.1/no-02-linear-search.pdb
