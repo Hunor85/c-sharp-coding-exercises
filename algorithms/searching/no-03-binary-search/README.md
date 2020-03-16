@@ -9,15 +9,15 @@ Binary search can be implemented only on a sorted list of items. If the elements
 ## The general steps for both methods are discussed below:
 
 1. The array in which searching is to be performed is:
-[img1](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img1.png
+![img1](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img1.png
 
   Let ```x = 4``` be the element to be searched.
 
 2. Set two pointers low and high at the lowest and the highest positions respectively.
-[img2](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img2.png
+![img2](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img2.png
 
 3. Find the middle element mid of the array ie. ```(arr[low + high]) / 2 = 6```.
-[img3](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img3.png
+![img3](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img3.png
 
 4. If ```x == mid```, then return mid. Else, compare the element to be searched with m.
 
@@ -26,13 +26,13 @@ This is done by setting ```low``` to ```low = mid + 1```.
 
 6. Else, compare ```x``` with the middle element of the elements on the left side of ```mid```.
 This is done by setting ```high``` to ```high = mid - 1```. 
-[img4](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img4.png
+![img4](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img4.png
 
 7. Repeat steps 3 to 6 until low meets high.
-[img5](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img5.png
+![img5](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img5.png
 
 8. ```x = 4``` is found.
-[img6](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img6.png
+![img6](https://github.com/Hunor85/c-sharp-coding-exercises/blob/master/algorithms/searching/no-03-binary-search/img/img6.png
 
 
 ## Binary Search Algorithm
