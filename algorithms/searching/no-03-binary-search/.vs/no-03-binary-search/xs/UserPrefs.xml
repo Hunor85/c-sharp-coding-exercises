@@ -1,16 +1,15 @@
-﻿<Properties StartupConfiguration="{E1759FBE-251B-4F9B-AAA3-90B2D975FC72}|Default">
-  <MonoDevelop.Ide.ItemProperties.no-02-linear-search PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+﻿<Properties StartupConfiguration="{777079AE-5630-415C-B1AB-3C96D2D57C1E}|Default">
+  <MonoDevelop.Ide.ItemProperties.no-03-binary-search FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="14" Column="29" />
-      <File FileName="README.md" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="no-02-linear-search" expanded="True">
-            <Node name="no-02-linear-search" expanded="True">
-              <Node name="README.md" selected="True" />
+          <Node name="no-03-binary-search" expanded="True">
+            <Node name="no-03-binary-search" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
