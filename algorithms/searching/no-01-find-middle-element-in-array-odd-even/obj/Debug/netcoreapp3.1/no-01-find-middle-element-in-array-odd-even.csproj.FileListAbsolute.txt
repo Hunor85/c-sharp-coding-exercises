@@ -1,0 +1,10 @@
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/bin/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.deps.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/bin/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/bin/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/bin/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/bin/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.pdb
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/obj/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/obj/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/obj/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/obj/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-01-find-middle-element-in-array-odd-even/obj/Debug/netcoreapp3.1/no-01-find-middle-element-in-array-odd-even.pdb

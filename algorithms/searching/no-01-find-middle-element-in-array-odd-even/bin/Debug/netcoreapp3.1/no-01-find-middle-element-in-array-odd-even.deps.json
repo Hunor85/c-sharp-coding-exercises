@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "no-01-find-middle-element-in-array-odd-even/1.0.0": {
+        "runtime": {
+          "no-01-find-middle-element-in-array-odd-even.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "no-01-find-middle-element-in-array-odd-even/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
