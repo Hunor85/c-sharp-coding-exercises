@@ -66,3 +66,14 @@ binarySearch(arr, x, low, high)
             return binarySearch(arr, x, low, mid - 1)
  ```
 
+### Binary Search Complexity
+
+#### Time Complexities
+
+* Best case complexity: O(1)
+* Average case complexity: O(log n)
+* Worst case complexity: O(log n)
+
+#### Space Complexity
+
+* The space complexity of the binary search is O(n).
