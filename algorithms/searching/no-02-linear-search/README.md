@@ -1,6 +1,6 @@
 # Linear Search
 
-## Problem: Given an array arr[] of n elements, write a function to search a given element x in arr[].
+### Problem: Given an array arr[] of n elements, write a function to search a given element x in arr[].
 
 ### A simple approach is to do linear search:
 * Start from the leftmost element of arr[] and one by one compare x with each element of arr[]
