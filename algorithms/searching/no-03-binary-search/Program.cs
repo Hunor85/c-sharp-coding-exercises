@@ -7,7 +7,6 @@ namespace no_03_binary_search
         // iterative implementation
         static int binarySearch(int[] array, int x, int low, int high)
         {
-
             while (low <= high)
             {
                 int mid = low + (high - low) / 2;
@@ -15,13 +14,12 @@ namespace no_03_binary_search
                 if (array[mid] == x)
                     return mid;
 
-                if (array[mid] < x)
+                if (array[mid] < x) // x is on the right side
                     low = mid + 1;
 
                 else
-                    high = mid - 1;
+                    high = mid - 1;  // x is on the left side
             }
-
             return -1;
         }
 
