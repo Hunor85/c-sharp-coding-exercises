@@ -1,0 +1,10 @@
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/bin/Debug/netcoreapp3.1/no-03-binary-search.deps.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/bin/Debug/netcoreapp3.1/no-03-binary-search.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/bin/Debug/netcoreapp3.1/no-03-binary-search.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/bin/Debug/netcoreapp3.1/no-03-binary-search.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/bin/Debug/netcoreapp3.1/no-03-binary-search.pdb
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/obj/Debug/netcoreapp3.1/no-03-binary-search.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/obj/Debug/netcoreapp3.1/no-03-binary-search.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/obj/Debug/netcoreapp3.1/no-03-binary-search.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/obj/Debug/netcoreapp3.1/no-03-binary-search.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/c-sharp-coding-exercises/algorithms/searching/no-03-binary-search/obj/Debug/netcoreapp3.1/no-03-binary-search.pdb
