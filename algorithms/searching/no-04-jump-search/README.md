@@ -23,5 +23,5 @@ In the worst case, we have to do n/m jumps and if the last checked value is grea
 * Binary Search is better than Jump Search, but Jump search has an advantage that we traverse back only once (Binary Search may require up to O(Log n) jumps, consider a situation where the element to be searched is the smallest element or smaller than the smallest). So in a system where binary search is costly, we use Jump Search.
 
 ## Resources
-[Jump Search - YouTube](https://www.youtube.com/watch?v=wNOoyZ45SmQ)
-[Jump Search - Studytonight](https://www.studytonight.com/data-structures/jump-search-algorithm)
+* [Jump Search - YouTube](https://www.youtube.com/watch?v=wNOoyZ45SmQ)
+* [Jump Search - Studytonight](https://www.studytonight.com/data-structures/jump-search-algorithm)
